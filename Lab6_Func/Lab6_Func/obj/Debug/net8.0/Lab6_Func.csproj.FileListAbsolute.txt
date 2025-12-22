@@ -1,0 +1,14 @@
+C:\Users\kulduaev\source\repos\Lab6_Func\Lab6_Func\bin\Debug\net8.0\Lab6_Func.exe
+C:\Users\kulduaev\source\repos\Lab6_Func\Lab6_Func\bin\Debug\net8.0\Lab6_Func.deps.json
+C:\Users\kulduaev\source\repos\Lab6_Func\Lab6_Func\bin\Debug\net8.0\Lab6_Func.runtimeconfig.json
+C:\Users\kulduaev\source\repos\Lab6_Func\Lab6_Func\bin\Debug\net8.0\Lab6_Func.dll
+C:\Users\kulduaev\source\repos\Lab6_Func\Lab6_Func\bin\Debug\net8.0\Lab6_Func.pdb
+C:\Users\kulduaev\source\repos\Lab6_Func\Lab6_Func\obj\Debug\net8.0\Lab6_Func.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kulduaev\source\repos\Lab6_Func\Lab6_Func\obj\Debug\net8.0\Lab6_Func.AssemblyInfoInputs.cache
+C:\Users\kulduaev\source\repos\Lab6_Func\Lab6_Func\obj\Debug\net8.0\Lab6_Func.AssemblyInfo.cs
+C:\Users\kulduaev\source\repos\Lab6_Func\Lab6_Func\obj\Debug\net8.0\Lab6_Func.csproj.CoreCompileInputs.cache
+C:\Users\kulduaev\source\repos\Lab6_Func\Lab6_Func\obj\Debug\net8.0\Lab6_Func.dll
+C:\Users\kulduaev\source\repos\Lab6_Func\Lab6_Func\obj\Debug\net8.0\refint\Lab6_Func.dll
+C:\Users\kulduaev\source\repos\Lab6_Func\Lab6_Func\obj\Debug\net8.0\Lab6_Func.pdb
+C:\Users\kulduaev\source\repos\Lab6_Func\Lab6_Func\obj\Debug\net8.0\Lab6_Func.genruntimeconfig.cache
+C:\Users\kulduaev\source\repos\Lab6_Func\Lab6_Func\obj\Debug\net8.0\ref\Lab6_Func.dll
