@@ -6,7 +6,7 @@ int a = int.Parse(Console.ReadLine());
 Console.Write("Введите b: ");
 int b = int.Parse(Console.ReadLine());
 Console.WriteLine($"Сумма цифр a + b = {Func(a)+Func(b)}");
-    int Func(int i)
+int Func(int i)
 {
     if (i >= 10 && i <= 99)
     {
@@ -21,4 +21,5 @@ Console.WriteLine($"Сумма цифр a + b = {Func(a)+Func(b)}");
         return 0;
     }
 }
+
 
