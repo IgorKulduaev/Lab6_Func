@@ -1,5 +1,5 @@
 ﻿
-//Базовый уровень. 1 вариант.
+//Базовый уровень. 18 вариант.
 using System.ComponentModel;
 Console.Write("Введите a: ");
 int a = int.Parse(Console.ReadLine());
@@ -21,3 +21,4 @@ Console.WriteLine($"Сумма цифр a + b = {Func(a)+Func(b)}");
         return 0;
     }
 }
+
